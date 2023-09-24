@@ -27,7 +27,7 @@ const cards: ICard[] = [
       image: 'https://sun9-21.userapi.com/impg/NX5kXLeuAWGQUJz1XKfKZQPihM8DeqnUoKuRLw/Y4dbp3Gr4KM.jpg?size=600x900&quality=95&sign=d33ab5ff3043a7c9ba8f78da13c77158&type=album'
   },
   {
-    text: 'Трудолюбивой',
+    text: 'Трудолюбивой!',
     image: 'https://sun9-8.userapi.com/impg/VEooRnH-HPeG-63uClEXCL2w509pSoKGlEw4qw/knLdpc0WK4k.jpg?size=735x800&quality=95&sign=c8730453dcb145c62fe71b023b266ba0&type=album'
   },
     {
